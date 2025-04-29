@@ -1,5 +1,5 @@
 // ParkingSoft API - Estructura básica del proyecto
-// Estructura de archivos recomendada:
+
 /*
 parkingsoft-api/
 ├── config/
